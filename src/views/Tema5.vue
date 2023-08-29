@@ -82,50 +82,51 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.  
           span Tipo de puestos para el sector de confecciones área de producción
-        table
-          thead
-            tr.text-center.bgt5
-              td.text-bold.w-70 Actividad
-              td.text-bold Tareas del puesto de trabajo
-          tbody
-            tr
-              td.w-70.text-center.text-bold.bgt4(rowspan='3') Diseño
-              td.pad.brtab Dibujar siluetas.
-            tr
-              td.pad.brtab Elaborar moldes.
-            tr
-              td.pad Cortar moldes.
-            tr
-              td.w-70.text-center.text-bold.bgt4(rowspan='6') Corte y modelado 
-              td.pad.brtab Alistar.
-            tr
-              td.pad.brtab Extender.
-            tr
-              td.pad.brtab Trazar.
-            tr
-              td.pad.brtab Cortar - manejo de máquinas.
-            tr
-              td.pad.brtab Tiquetear.
-            tr
-              td.pad Transportar.
-            tr
-              td.w-70.text-center.text-bold.bgt4(rowspan='4') Planchado 
-              td.pad.brtab Preparación de prendas.
-            tr
-              td.pad.brtab Extendido de prendas.
-            tr
-              td.pad.brtab Planchado, vaporizado y enfriado de prendas.
-            tr
-              td.pad Recogida de prendas.
-            tr
-              td.w-70.text-center.text-bold.bgt4(rowspan='4') Confección
-              td.pad.brtab Coser - manejo de máquinas.
-            tr
-              td.pad.brtab Planchado y vaporizado.
-            tr
-              td.pad.brtab Empacar.
-            tr
-              td.pad Transportar.
+        .tabla-a.color-acento-botones          
+          table
+            thead
+              tr.text-center.bgt5
+                td.text-bold.w-70 Actividad
+                td.text-bold Tareas del puesto de trabajo
+            tbody
+              tr
+                td.w-70.text-center.text-bold.bgt4(rowspan='3') Diseño
+                td.pad.brtab Dibujar siluetas.
+              tr
+                td.pad.brtab Elaborar moldes.
+              tr
+                td.pad Cortar moldes.
+              tr
+                td.w-70.text-center.text-bold.bgt4(rowspan='6') Corte y modelado 
+                td.pad.brtab Alistar.
+              tr
+                td.pad.brtab Extender.
+              tr
+                td.pad.brtab Trazar.
+              tr
+                td.pad.brtab Cortar - manejo de máquinas.
+              tr
+                td.pad.brtab Tiquetear.
+              tr
+                td.pad Transportar.
+              tr
+                td.w-70.text-center.text-bold.bgt4(rowspan='4') Planchado 
+                td.pad.brtab Preparación de prendas.
+              tr
+                td.pad.brtab Extendido de prendas.
+              tr
+                td.pad.brtab Planchado, vaporizado y enfriado de prendas.
+              tr
+                td.pad Recogida de prendas.
+              tr
+                td.w-70.text-center.text-bold.bgt4(rowspan='4') Confección
+                td.pad.brtab Coser - manejo de máquinas.
+              tr
+                td.pad.brtab Planchado y vaporizado.
+              tr
+                td.pad.brtab Empacar.
+              tr
+                td.pad Transportar.
       .col-lg-6
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/46.png', alt='')     
 

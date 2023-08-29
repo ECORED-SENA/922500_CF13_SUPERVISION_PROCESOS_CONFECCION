@@ -24,88 +24,106 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 3.  
           span Factores ambientales relacionados con enfermedades musculoesqueléticas  
-          
-        table
-          thead
-            tr.text-center.bgt5
-              td.text-bold Factor
-              td.text-bold Acciones preventivas
-          tbody
-            tr
-              td(rowspan='4') Vibración: movimiento oscilatorio de cuerpos sólidos.
-              td
-                | - Se debe generar un entrenamiento al trabajador sobre la utilización, mantenimiento sobre la herramienta con emisión vibratoria.
-            tr
-              td
-                | - Planificar claramente las horas de trabajo (tiempo de exposición), con frecuentes pausas evitando exposición prolongada.
-            tr
-              td
-                | - Generar pausas activas con ejercicios para descansar y fortalecer la zona expuesta a la vibración evitando problemas vasculares, de nervios o musculares o el síndrome del túnel carpiano.
-            tr
-              td  
-            tr
-              td(rowspan='2')
-                | Frío: baja temperatura que puede ser por convección y radiación ante ciertas situaciones y la sensación que se expresa ante ese fenómeno. Se define temperatura ambiental crítica, al aire libre, o aquella igual o menor de 10 ºC.
-              td - Para evitar el disconfort térmico se debe usar vestimenta protectora.
-            tr
-              td
-                | - En espacios que permitan generar factores que eleven la temperatura sin exagerar.
-            tr
-              td(rowspan='3')
-                | Calor: este se relaciona con el manejo de energía en tránsito que se reconoce solo cuando se cruza la frontera de un sistema termodinámico.
-              td - Ventilación adecuada. 
-            tr
-              td - Hidratación y balance de electrolitos. 
-            tr
-              td - Evitar temperaturas superiores a los 36 °C.
+        .tabla-a.color-acento-botones          
+          table
+            thead
+              tr.text-center.bgt5
+                td.text-bold Factor
+                td.text-bold Acciones preventivas
+            tbody
+              tr
+                td #[b Vibración:] movimiento oscilatorio de cuerpos sólidos.
+                td
+                  ul.lista-ul.mb-0.fa-ul
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Se debe generar un entrenamiento al trabajador sobre la utilización, mantenimiento sobre la herramienta con emisión vibratoria.
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Planificar claramente las horas de trabajo (tiempo de exposición), con frecuentes pausas evitando exposición prolongada.
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Generar pausas activas con ejercicios para descansar y fortalecer la zona expuesta a la vibración evitando problemas vasculares, de nervios o musculares o el síndrome del túnel carpiano.
+  
+              tr
+                td #[b Frío: ]baja temperatura que puede ser por convección y radiación ante ciertas situaciones y la sensación que se expresa ante ese fenómeno. Se define temperatura ambiental crítica, al aire libre, o aquella igual o menor de 10 ºC.
+                td
+                  ul.lista-ul.mb-0.fa-ul
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Para evitar el #[i disconfort] térmico se debe usar vestimenta protectora.
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 En espacios que permitan generar factores que eleven la temperatura sin exagerar.
+              tr
+                td #[b Calor:] este se relaciona con el manejo de energía en tránsito que se reconoce solo cuando se cruza la frontera de un sistema termodinámico.
+                td              
+                  ul.lista-ul.mb-0.fa-ul
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Ventilación adecuada. 
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Hidratación y balance de electrolitos. 
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Evitar temperaturas superiores a los 36 °C.
 
-    h4(data-aos="fade-down").t1 Factores de riesgos ambientales relacionados con el confort en el lugar de trabajo
-    p(data-aos="fade-down").mb-5 Este tipo de factores no generan enfermedades musculoesqueléticas, pero sí disconfort en el lugar de trabajo, se pueden evidenciar mala iluminación, ruido, y condiciones ambientales a las que se expone un trabajador en un recinto, dentro de las cuales están factores químicos, físico y biológicos susceptibles de generar efectos en la salud o en el bienestar de los trabajadores.
+    h4(data-aos="fade-down").t1 Factores de riesgos ambientales relacionados con el #[i confort] en el lugar de trabajo
+    p(data-aos="fade-down").mb-5 Este tipo de factores no generan enfermedades musculoesqueléticas, pero sí #[i disconfort] en el lugar de trabajo, se pueden evidenciar mala iluminación, ruido, y condiciones ambientales a las que se expone un trabajador en un recinto, dentro de las cuales están factores químicos, físico y biológicos susceptibles de generar efectos en la salud o en el bienestar de los trabajadores.
     .row.justify-content-center.align-items-end.mb-5           
       .col-lg-10(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4.  
-          span Factores de riesgos ambientales relacionados con el confort en el lugar de trabajo  
-          
-        table
-          thead
-            tr.text-center.bgt5   
-              td.w-80.text-bold.text-center Factor
-              td.text-bold Acciones preventivas
-          tbody
-            tr
-              td.w-80.text-bold.text-center(rowspan='5') Iluminación
-              td
-                | - Para un aceptable nivel de confort, no debe existir un excesivo contraste en el entorno de la tarea a ejecutar.
-            tr
-              td - Generar mantenimiento permanente a los elementos de iluminación.
-            tr
-              td
-                | - Ubicar estratégicamente máquinas y trabajadores para que no produzcan deslumbramientos tanto por las propias fuentes luminosas como en las superficies del entorno de trabajo o sombras del trabajador.
-            tr
-              td
-                | - Para generar un confort visual y evitar la fatiga visual es necesario implementar una Iluminación uniforme y óptima, con ausencia de brillos deslumbrantes, en condiciones de contraste adecuadas, utilizando los colores correctos y garantizando la ausencia de luces intermitentes o efectos estroboscópicos.
-            tr
-              td  
-            tr
-              td.w-80.text-bold.text-center(rowspan='3') Ruido
-              td
-                | - Para favorecer un ambiente acústico de confort en los puestos de trabajo, es necesario el acondicionamiento acústico del recinto a través de la implementación de determinados materiales que pueden incrementar la absorción acústica, reduciendo con ello el sonido reflejado por los límites del local.
-            tr
-              td
-                | - El aislamiento acústico con la utilización permanente de protectores auditivos.
-            tr
-              td  
-            tr
-              td.w-80.text-bold.text-center(rowspan='3') Condiciones ambientales 
-              td
-                | -  Realizar un correcto manejo de productos y desechos químicos y biológicos.
-            tr
-              td
-                | - Generar capacitación permanente a los trabajadores sobre  los productos químicos utilizados en los lugares de trabajo, al igual que las medidas adecuadas de prevención que les permitan participar eficazmente en los programas de protección.
-            tr
-              td
-                | - Eliminar el uso o reducirlo, minimizando la utilización de sustancias tóxicas, cuando sea factible.
+          span Factores de riesgos ambientales relacionados con el #[i confort] en el lugar de trabajo  
+        .tabla-a.color-acento-botones          
+          table
+            thead
+              tr.text-center.bgt5   
+                td.w-80.text-bold.text-center Factor
+                td.text-bold Acciones preventivas
+            tbody
+              tr
+                td.w-80.text-bold.text-center Iluminación
+                td
+                  ul.lista-ul.mb-0.fa-ul
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Para un aceptable nivel de #[i confort], no debe existir un excesivo contraste en el entorno de la tarea a ejecutar.
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0  Generar mantenimiento permanente a los elementos de iluminación.
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Ubicar estratégicamente máquinas y trabajadores para que no produzcan deslumbramientos tanto por las propias fuentes luminosas como en las superficies del entorno de trabajo o sombras del trabajador.
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Para generar un #[i confort] visual y evitar la fatiga visual es necesario implementar una Iluminación uniforme y óptima, con ausencia de brillos deslumbrantes, en condiciones de contraste adecuadas, utilizando los colores correctos y garantizando la ausencia de luces intermitentes o efectos estroboscópicos.
+  
+              tr
+                td.w-80.text-bold.text-center Ruido
+                td
+                  ul.lista-ul.mb-0.fa-ul
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Para favorecer un ambiente acústico de #[i confort] en los puestos de trabajo, es necesario el acondicionamiento acústico del recinto a través de la implementación de determinados materiales que pueden incrementar la absorción acústica, reduciendo con ello el sonido reflejado por los límites del local.
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 El aislamiento acústico con la utilización permanente de protectores auditivos.
+  
+              tr
+                td.w-80.text-bold.text-center Condiciones ambientales 
+                td
+                  ul.lista-ul.mb-0.fa-ul
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0  Realizar un correcto manejo de productos y desechos químicos y biológicos.
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Generar capacitación permanente a los trabajadores sobre  los productos químicos utilizados en los lugares de trabajo, al igual que las medidas adecuadas de prevención que les permitan participar eficazmente en los programas de protección.
+                    li 
+                      i.lista-ul__vineta
+                      p.mb-0 Eliminar el uso o reducirlo, minimizando la utilización de sustancias tóxicas, cuando sea factible.
 
 
 

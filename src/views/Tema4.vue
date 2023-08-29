@@ -107,7 +107,6 @@
     p(data-aos="fade-down").mb-5 Para diseñar un puesto de trabajo es necesario recolectar una serie de datos que son fundamentales para este proceso, tales como:
 
     .bg7.p-4.mb-4
-      h4(data-aos="fade-down").t1.text-center ELEMENTOS PARA EL DISEÑO DE PUESTO DE TRABAJO
       .row.justify-content-center.align-items-center     
         .col-lg-3    
           .row.justify-content-center.mb-2           
@@ -227,7 +226,7 @@
         .bg12.p-4.brad1.h-100
           .bgn 
             span 9
-          p.mb-0.j.mt-4 Maximiza la productividad de los trabajadores, por lo tanto, ayuda a maximizar la productividad de la empresa.                         
+          p.mb-0.j.pt-4 Maximiza la productividad de los trabajadores, por lo tanto, ayuda a maximizar la productividad de la empresa.                         
 
     .row.justify-content-center.align-items-center.mt-5   
       .col-lg-10

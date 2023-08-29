@@ -75,6 +75,9 @@
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/10.png', alt='')
 
+    h4.t1.mt-5(data-aos="fade-down") Objetivos
+    p(data-aos="fade-down").mb-5 Para lograr un diseño y distribución de planta adecuado es necesario en su planificación fijar varios objetivos, tales como:
+
     SlyderF.text-center.mb-5(columnas="col-lg-6 col-xl-6")(data-aos="fade-right")
       .tarjeta.tarjeta-avatar.h-100
         img.img-w(src='@/assets/curso/temas/11.svg' alt='AvatarTop')
@@ -133,7 +136,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
               h5 Figura 1.
-              span Ejemplo distribución de planta. 
+              span Ejemplo distribución de planta 
 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg', alt='') 
 
@@ -146,7 +149,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg9")
           .row.justify-content-center(titulo="Una distribución de planta eficiente")
             .col-11
-              p Una distribución de planta eficiente permite identificar los sistemas y metodologías de producción más adecuados y seleccionar el mejor método. Las herramientas gráficas, como dibujos, planos y maquetas, son útiles para determinar los movimientos requeridos y cómo se relacionan los procesos para formar un sistema productivo.  
+              p Una distribución de planta eficiente permite identificar los sistemas y metodologías de producción más adecuados y seleccionar el mejor método. Las herramientas gráficas, como dibujos, planos y maquetas, son útiles para determinar los movimientos requeridos y cómo se relacionan los procesos para formar un sistema productivo.
 
           .row.justify-content-center(titulo="Control de inventarios en proceso y de producto terminado")
             .col-11

@@ -17,7 +17,7 @@
 
           .tarjeta.bg2.p-3(x="13%" y="42%" numero="1")
             .h5 Área administrativa   
-            p.mb-0 La actividad económica de una empresa define las operaciones administrativas necesarias, el personal requerido y las áreas de trabajo necesarias. Por ejemplo, una empresa dedicada a la venta de productos requiere un espacio para Show Room, mientras que una empresa de producción necesita áreas específicas para la producción y necesidades fisiológicas del personal.     
+            p.mb-0 La actividad económica de una empresa define las operaciones administrativas necesarias, el personal requerido y las áreas de trabajo necesarias. Por ejemplo, una empresa dedicada a la venta de productos requiere un espacio para #[i show room], mientras que una empresa de producción necesita áreas específicas para la producción y necesidades fisiológicas del personal.     
 
           .tarjeta.bg2.p-3(x="25.8%" y="8%" numero="2")
             .h5 Área de materias primas e insumos   
@@ -74,6 +74,11 @@
                 h5(data-aos="fade-down") Distribución híbrida
                 p(data-aos="fade-down").mb-0 Seguir una sola línea de producción, o una sola manera de producir, o más aún, distribuir la planta con una sola intención de producir, es demasiado arriesgado; por ello, muchas organizaciones optan para ganar en versatilidad y respuesta a la demanda, por implementar varios tipos de distribución de planta, de manera mixta o híbrida.  
 
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-10
+        .cajon.color-secundario.p-4.mb-4(data-aos="flip-down")
+          p(data-aos="fade-down").mb-0 Lo invitamos a observar el video “Distribución de planta” que se encuentra en el material complementario que profundiza en los aspectos clave.
+
     h4(data-aos="fade-down").t1 Distribución de planta y costos
     p(data-aos="fade-down") No existe una actividad que se realice en una planta que no sea para el beneficio de la organización, los colaboradores, los clientes, los sistemas de producción, los proveedores y todo lo que pertenezca a ese entorno organizacional. En el fondo, cuando se habla de empresas se habla de rentabilidad, utilidades, crecimiento; y el ejercicio de diseñar una distribución o redistribución de planta no es ajeno a ese propósito, lo que hace concluir que cualquier mejora al proceso productivo está ligada al tema de costos.
 
@@ -82,41 +87,42 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.  
-          span Relación de beneficios según actividad de distribución de planta 
-        table.text-center
-          thead
-            tr
-              th.brt1  
-              td(colspan='3').text-white.bgt1.text-bold Beneficio económico
-          tbody
-            tr.bgt2.text-bold
-              td Aspecto
-              td Área
-              td Tiempo
-              td Empleado
-            tr
-              td Eliminar o recortar distancias.
-              td Se requiere menos área.
-              td Los procesos se agilizan y se producen más unidades en menor tiempo. 
-              td Sufre menos fatiga y mejora su eficiencia.
-            tr
-              td Flujos de producción.
-              td Se utilizan espacios según la necesidad.
-              td Son más ágiles los flujos y hay más productividad.
-              td Más participativo y versátil.
-            tr
-              td Disminución del tiempo de fabricación.
-              td N/A
-              td Se aumenta la capacidad instalada.
-              td Se logran recursos para incentivar.
-            tr
-              td Seguridad del personal, disminución de accidentes.
-              td  N/A
-              td Más minutos productivos, y menos tiempo ocioso.
-              td Se disminuye el ausentismo y las incapacidades.
+          span Relación de beneficios según actividad de distribución de planta
+        .tabla-a.color-acento-botones           
+          table.text-center
+            thead
+              tr
+                th.brt1  
+                td(colspan='3').text-white.bgt1.text-bold Beneficio económico
+            tbody
+              tr.bgt2.text-bold
+                td Aspecto
+                td Área
+                td Tiempo
+                td Empleado
+              tr
+                td Eliminar o recortar distancias.
+                td Se requiere menos área.
+                td Los procesos se agilizan y se producen más unidades en menor tiempo. 
+                td Sufre menos fatiga y mejora su eficiencia.
+              tr
+                td Flujos de producción.
+                td Se utilizan espacios según la necesidad.
+                td Son más ágiles los flujos y hay más productividad.
+                td Más participativo y versátil.
+              tr
+                td Disminución del tiempo de fabricación.
+                td N/A
+                td Se aumenta la capacidad instalada.
+                td Se logran recursos para incentivar.
+              tr
+                td Seguridad del personal, disminución de accidentes.
+                td  N/A
+                td Más minutos productivos, y menos tiempo ocioso.
+                td Se disminuye el ausentismo y las incapacidades.
     p(data-aos="fade-down") Después de implementar mejoras en la distribución de planta actual, un indicador importante que demuestra el efecto que tuvo esta mejora, es el de revisar costos vs. facturación, ese resultado indica si la gestión de procesos por intermedio de distribución y reacomodo de recursos fue efectiva. 
 
-    h4(data-aos="fade-down").t1 Softwares para distribuciones de planta
+    h4(data-aos="fade-down").t1 #[i software]s para distribuciones de planta
     p(data-aos="fade-down").mb-5 En el siglo XXI, los avances tecnológicos han sido muy representativos, y de ahí se ha establecido que se está viviendo la cuarta revolución industrial o industrias 4.0. La industria de la moda no es ajena a eso y el mercado oferta programas que ayudan a elaborar una distribución de planta de manera más técnica y ágil. Los más utilizados son:
 
     TabsA.color-acento-botones(data-aos="fade-left")
@@ -126,7 +132,7 @@
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/28.png', alt='')     
 
           .col
-            p.mb-0 Este software se utiliza para dibujar una gran cantidad de diagramas, como por ejemplo los organigramas, flujogramas o diagramas de flujo. El programa Visio también ayuda con la construcción de planos de planta y/o distribución de planta e integra y ayuda a visualizar la relación de los elementos necesarios para la gestión de procesos. Apoyar la comunicación con información visual ayuda a entender mejor tablas y textos que a veces son difíciles de comprender.   
+            p.mb-0 Este #[i software] se utiliza para dibujar una gran cantidad de diagramas, como por ejemplo los organigramas, flujogramas o diagramas de flujo. El programa Visio también ayuda con la construcción de planos de planta y/o distribución de planta e integra y ayuda a visualizar la relación de los elementos necesarios para la gestión de procesos. Apoyar la comunicación con información visual ayuda a entender mejor tablas y textos que a veces son difíciles de comprender.   
 
       .tarjeta.color-acento-botones--borde.tabs-brbottom.p-4(titulo="AutoCAD")
         .row.justify-content-center.align-items-center
@@ -136,7 +142,7 @@
           .col
             p.mb-0 Es en la actualidad el programa más usado para arquitectura, diseño industrial e ingeniería. Esta herramienta tiene capacidad para construir y editar planos que permitan visualizar distribuciones de planta y puestos de trabajo; incluso permite dibujos en 2D y 3D. Su capacidad de automatizar de manera rápida información como planos, elementos, máquinas, procesos, etc., hacen que sea una solución importante, cuando de visualizar procesos se trata y, además, integra informaciones de otras áreas.  
 
-      .tarjeta.color-acento-botones--borde.tabs-brbottom.p-4(titulo="Layout")
+      .tarjeta.color-acento-botones--borde.tabs-brbottom.p-4(titulo="<i>Layout</i>")
         .row.justify-content-center.align-items-center
           .col-auto
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/30.png', alt='')     
