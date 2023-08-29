@@ -138,7 +138,7 @@
               h5 Figura 1.
               span Ejemplo distribución de planta 
 
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg', alt='') 
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg', alt='La figura representa un ejemplo de distribución en la planta. Comienza con el punto de ingreso, donde se localizan las oficinas, los insumos, los vestuarios en los baños y las zonas de comedor. Por otro lado, se encuentra el acceso a las materias primas, pasa por el área de almacenamiento de telas, continúa por el área de extendido y corte, y llega a la planta de confección. Posteriormente, pasa por el proceso de terminación y empaque, luego por la bodega y finalmente por el producto terminado. Finaliza su recorrido pasando por el área de despacho hacia los puntos de venta.') 
 
     h4.t1(data-aos="fade-down") Ventajas
     p(data-aos="fade-down").mb-5 Las ventajas de una adecuada distribución de planta redundan específicamente en los siguientes resultados:

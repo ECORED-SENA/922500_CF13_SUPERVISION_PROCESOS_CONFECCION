@@ -159,13 +159,6 @@ export default {
     {
       tema: '<i>Softwares</i> para distribuciones de planta',
       referencia:
-        'Profa Lucydul (2022). <i>Tutorial Visio: diseño de layout o distribución de planta |Fábrica</i>. [Video]. YouTube.',
-      tipo: 'Video YouTube',
-      link: 'https://youtu.be/SCQ907uU8KY',
-    },
-    {
-      tema: '<i>Softwares</i> para distribuciones de planta',
-      referencia:
         'Ortega, K. (2020). <i>Distribución de planta bloques de Autocad</i>. [Video]. YouTube.',
       tipo: 'Video YouTube',
       link: 'https://youtu.be/E9_m4SW1boY',
@@ -258,7 +251,7 @@ export default {
       referencia:
         'Castelló, P., García, C., Piedrabuena, A., Ferreras, A., Monytero, J., Chirivella, C., Vera, P., y Prat, J. (2004). <i>Estudio de las condiciones ergonómicas del trabajo en el sector textil</i>. Instituto de Biomecánica de Valencia.',
       link:
-        'https://gestion.ibv.org/gestoribv/index.php/productos/descargables/106-estudio-de-las-condiciones-ergonomicas-del-trabajo-en-el-sector-textil/file',
+        'https://www.ibv.org/wp-content/uploads/2020/01/Estudio_sector_textil.pdf',
     },
     {
       referencia:
@@ -282,7 +275,7 @@ export default {
       referencia:
         'Instituto Regional de Seguridad y Salud en el Trabajo de Madrid. (s.f.). <i>Diseño del puesto de trabajo en oficinas y despachos en las administraciones públicas</i>. Instituto Regional de Seguridad y Salud en el Trabajo de Madrid.',
       link:
-        'https://sistemamid.com/panel/uploads/biblioteca/2015-07-09_10-48-08126551.pdf',
+        'https://www.acaip.es/images/docs/090209_cuaderno_diseno_puesto_trabajo.pdf',
     },
     {
       referencia:

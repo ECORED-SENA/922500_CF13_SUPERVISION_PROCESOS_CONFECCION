@@ -86,7 +86,7 @@
                       .titulo-sexto.color-acento-contenido
                         h5 Figura 4. 
                         span Posturas correctas para el puesto de trabajo de pie
-                      img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/59.png', alt='') 
+                      img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/59.png', alt='La figura representa las posturas correctas para el puesto de trabajo de pie. En primer lugar, para trabajos de precisión, se recomienda una altura en la mesa de 95 a 120 cm. En segundo lugar, para tareas ligeras, se sugiere una mesa de 85 a 110 cm de altura. En tercer lugar, para trabajos pesados, se recomienda una altura entre 65 y 95 cm, o hasta la altura del codo.') 
                       figcaption Nota. Tomada de Ofiprix (2017) 
 
     h4(data-aos="fade-down").t1 Puestos de planchado y vaporizado
@@ -145,7 +145,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 6. 
                     span Postura adecuada de cuello
-                  img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/61.png', alt='')                                               
+                  img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/61.png', alt='La figura representa que para el proceso de planchado, es importante mantener una buena postura, ya que el percentil de la máquina está configurado con un ángulo de 95 grados de flexión y el cuello debe mantenerse en una flexión de 19 grados.')                                               
 
     h4(data-aos="fade-down").t1 Puestos de confección
     p(data-aos="fade-down").mb-5 Esta tarea se caracteriza por una postura sentada, con la cabeza y el tronco generalmente inclinado hacia adelante, con una gran exigencia visual, con movimientos simultáneos de brazos y pies.
@@ -185,7 +185,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 7. 
                     span Posturas adoptadas durante la tarea de confección
-                  img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/62.png', alt='') 
+                  img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/62.png', alt='La figura representa la postura adecuada para la tarea de confección, donde las rodillas deben mantener un ángulo de inclinación de 90 a 110 grados.') 
                   figcaption Nota. Tomada de ICASEL Canarias (s.f.).
 
               tr
@@ -208,7 +208,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 8. 
                     span Dimensiones recomendadas para el tablero
-                  img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/63.png', alt='') 
+                  img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/63.png', alt='En la representación, se detallan las dimensiones recomendadas para el tablero de confección. El mismo debe tener una profundidad mínima de 20 cm y máxima de 38 cm. En cuanto a la anchura, se sugiere un rango entre 106 cm como mínimo y 150 cm como máximo. La altura de las piernas debe estar ajustada a 65 cm. El espacio destinado para las piernas y los pies debe contar con un ancho de 46 cm. En lo referente al espacio para las piernas, la profundidad a la altura de la rodilla ha de ser de 49 cm.') 
                   figcaption Nota. Tomada de ICASEL Canarias (s.f.).
 
                   ul.lista-ul.mb-0.fa-ul.mb-4
