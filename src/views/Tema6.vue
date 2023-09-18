@@ -209,12 +209,9 @@
                     h5 Figura 8. 
                     span Dimensiones recomendadas para el tablero
                   img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/63.png', alt='En la representación, se detallan las dimensiones recomendadas para el tablero de confección. El mismo debe tener una profundidad mínima de 20 cm y máxima de 38 cm. En cuanto a la anchura, se sugiere un rango entre 106 cm como mínimo y 150 cm como máximo. La altura de las piernas debe estar ajustada a 65 cm. El espacio destinado para las piernas y los pies debe contar con un ancho de 46 cm. En lo referente al espacio para las piernas, la profundidad a la altura de la rodilla ha de ser de 49 cm.') 
-                  figcaption Nota. Tomada de ICASEL Canarias (s.f.).
+                  figcaption.mb-4 Nota. Tomada de ICASEL Canarias (s.f.).
 
-                  ul.lista-ul.mb-0.fa-ul.mb-4
-                    li 
-                      i.lista-ul__vineta
-                      p.mb-0                     
+                  ul.lista-ul.mb-0.fa-ul.mb-4              
                     li 
                       i.lista-ul__vineta
                       p.mb-0 C → profundidad de trabajo anterior a la aguja. Mínimo 20 cm, máximo 38 cm.

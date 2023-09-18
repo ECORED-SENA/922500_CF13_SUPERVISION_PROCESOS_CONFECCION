@@ -122,7 +122,7 @@
                 td Se disminuye el ausentismo y las incapacidades.
     p(data-aos="fade-down") Después de implementar mejoras en la distribución de planta actual, un indicador importante que demuestra el efecto que tuvo esta mejora, es el de revisar costos vs. facturación, ese resultado indica si la gestión de procesos por intermedio de distribución y reacomodo de recursos fue efectiva. 
 
-    h4(data-aos="fade-down").t1 #[i software]s para distribuciones de planta
+    h4(data-aos="fade-down").t1 #[i Softwares] para distribuciones de planta
     p(data-aos="fade-down").mb-5 En el siglo XXI, los avances tecnológicos han sido muy representativos, y de ahí se ha establecido que se está viviendo la cuarta revolución industrial o industrias 4.0. La industria de la moda no es ajena a eso y el mercado oferta programas que ayudan a elaborar una distribución de planta de manera más técnica y ágil. Los más utilizados son:
 
     TabsA.color-acento-botones(data-aos="fade-left")
