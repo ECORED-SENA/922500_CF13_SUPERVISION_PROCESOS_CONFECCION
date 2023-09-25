@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La figura sintetiza el diseño de distribución de la planta, enfocándose en optimizar áreas de trabajo, reducir costos y aumentar eficiencia. El diseño se adapta a diferentes sistemas de producción y áreas funcionales. Las estrategias de distribución varían e incluyen aspectos como ergonomía y seguridad, siempre cumpliendo con la normatividad vigente.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

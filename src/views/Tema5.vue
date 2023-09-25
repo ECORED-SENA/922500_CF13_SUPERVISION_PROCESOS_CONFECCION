@@ -196,7 +196,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/54.png' alt='AvatarTop')
             .p-4
               h4 Insatisfacción laboral
-              p.mb-0 Generadora de estrés y otras alteraciones de la salud, las cuales son generadas por insatisfacción con la remuneración laboral, falta de participación, por aislamiento, falta de comunicacióno nulidad de participación.              
+              p.mb-0 Generadora de estrés y otras alteraciones de la salud, las cuales son generadas por insatisfacción con la remuneración laboral, falta de participación, por aislamiento, falta de comunicación o nulidad de participación.              
 </template>
 
 <script>

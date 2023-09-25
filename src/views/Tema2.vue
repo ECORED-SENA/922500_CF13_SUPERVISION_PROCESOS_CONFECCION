@@ -11,14 +11,12 @@
       .col-lg-7.my-3
         p(data-aos="fade-down") Para determinar la ubicación de los puestos de trabajo, máquinas, herramientas y equipos, así como la relación entre las personas y otros recursos, es necesario tener en cuenta los productos a fabricar y los sistemas de producción empleados.
 
-        p(data-aos="fade-down") Si se trata de productos que tienen muy pocas operaciones, la disposición de las máquinas se hará de una manera diferente a cuanto el producto a elaborar es complejo y el número de operaciones es grande, no es lo mismo
-
-        p(data-aos="fade-down") producir pañuelos, que overoles para un mecánico de aviones. A eso hay que sumarle el número de unidades, y la frecuencia con que hay demanda de ese producto. Según estos elementos, se pueden distinguir dos tipos de producción: por lotes y continua.      
+        p(data-aos="fade-down") Si se trata de productos que tienen muy pocas operaciones, la disposición de las máquinas se hará de una manera diferente a cuanto el producto a elaborar es complejo y el número de operaciones es grande, no es lo mismo producir pañuelos, que overoles para un mecánico de aviones. A eso hay que sumarle el número de unidades, y la frecuencia con que hay demanda de ese producto. Según estos elementos, se pueden distinguir dos tipos de producción: por lotes y continua.      
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/20.png', alt='') 
 
     h4(data-aos="fade-down").t1 Producción por lotes         
-    p(data-aos="fade-down").mb-5 La producción por lotes es un tipo de sistema de producción en el que se fabrican productos en grupos, llamados lotes, en los que cada lote representa una cantidad determinada de unidades producidas, en el siguiente video se puede profundizar sobre esto
+    p(data-aos="fade-down").mb-5 La producción por lotes es un tipo de sistema de producción en el que se fabrican productos en grupos, llamados lotes, en los que cada lote representa una cantidad determinada de unidades producidas, en el siguiente video se puede profundizar sobre esto.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     

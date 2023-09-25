@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 8
       h1 Normativa
-    p(data-aos="fade-down").mb-5 Colombia cuenta con una amplia normativa relacionada con la seguridad y salud en el trabajo, que se considera un conjunto de herramientas para priorizar la protección de la salu idad laboral y transformar el Sistema de Riesgos Laborales en uno más eficiente, a continuación, se describen las normas más relevantes y que son de obligatorio cumplimiento sin importar la clasificación de la empresa.
+    p(data-aos="fade-down").mb-5 Colombia cuenta con una amplia normativa relacionada con la seguridad y salud en el trabajo, que se considera un conjunto de herramientas para priorizar la protección de la salubridad laboral y transformar el Sistema de Riesgos Laborales en uno más eficiente, a continuación, se describen las normas más relevantes y que son de obligatorio cumplimiento sin importar la clasificación de la empresa.
     
     .row.justify-content-center.align-items-end.mb-5           
       .col-lg-10(data-aos="fade-right")
@@ -56,7 +56,7 @@
                 td Por la cual se reglamenta la organización y funcionamiento de los comités de medicina, higiene y seguridad industrial en los lugares de trabajo.
               tr
                 td.text-bold.text-center.w-80 Resolución 2400 1979
-                td Por la cual se establecen algunas disposiciones so e vivienda, higiene y seguridad en los establecimientos de trabajo.
+                td Por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.
 
     .row.justify-content-center.align-items-center
       .col-lg-10

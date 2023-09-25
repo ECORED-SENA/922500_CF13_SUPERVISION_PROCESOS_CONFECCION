@@ -183,15 +183,7 @@ export default {
         'Asensio, C., S., Bastante, C., M., y Diego, M., J. (2012). <i>Evaluación ergonómica de puestos de trabajo</i>. Ediciones Paraninfo.',
       tipo: 'Libro',
       link:
-        'https://login.bdigital.sena.edu.co/login?qurl=https://go.gale.com%2f',
-    },
-    {
-      tema: 'Proceso de diseño y análisis puestos de trabajo',
-      referencia:
-        'Palomo, V., M. (2009). <i>Planificación y descripción de puestos de trabajo</i>. ESIC Editorial.',
-      tipo: 'Libro',
-      link:
-        'https://login.bdigital.sena.edu.co/login?qurl=https://go.gale.com%2f',
+        'https://www.google.com.co/books/edition/EVALUACI%C3%93N_ERGON%C3%93MICA_DE_PUESTOS_DE_TR/v5kFfWOUh5oC?hl=es-419&gbpv=1&printsec=frontcover ',
     },
     {
       tema: 'Distribución de plantas',
@@ -307,7 +299,7 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Líder del equipo',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -324,7 +316,8 @@ export default {
         {
           nombre: 'John Jairo Pérez Chaverra',
           cargo: 'Experto temático',
-          centro: 'SENA',
+          centro:
+            'Centro de Formación en Diseño, Confección y Moda Complejo Sur Itagüí - Regional Antioquia',
         },
         {
           nombre: 'Liliana María Ceballos Gutiérrez',

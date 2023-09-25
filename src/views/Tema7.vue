@@ -13,7 +13,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 9.
           span Medio ambiente de trabajo
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/55.svg', alt='')
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/55.svg', alt='Esta es una figura informativa que explica los diferentes tipos de condiciones ambientales que pueden afectar a un lugar de trabajo')
         figcaption.mt-3 Nota. Tomada de Gómez (2017, p. 23).
 
 

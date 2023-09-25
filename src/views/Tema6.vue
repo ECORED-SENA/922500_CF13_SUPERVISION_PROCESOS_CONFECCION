@@ -16,12 +16,15 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 2.
           span Tareas clave en la producción de confección
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/57.svg', alt='')
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/57.svg', alt='La figura presenta las tres tareas clave de la confección: extendido y corte, planchado y confección.')
 
     h4(data-aos="fade-down").t1 Puesto de corte
     p(data-aos="fade-down").mb-5 Es un puesto en el que generalmente se trabaja de pie, en las empresas hay tres tipos de corte: manual, semiautomático, en estos se ayuda al proceso con algún elemento, y el automatizado.
     .row.justify-content-center.align-items-end.mb-5           
       .col-lg-10(data-aos="fade-left")
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 3.
+          span Puestos de corte       
         .tabla-a.color-acento-botones      
           table
             thead
@@ -56,7 +59,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 3. 
                     span Posturas adoptadas durante la tarea de corte
-                  img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/58.png', alt='')
+                  img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/58.png', alt='Esta es una imagen que muestra a un hombre trabajando en un taller de costura.')
 
               tr
                 td.bgt4.text-bold.w-90.text-center Acciones de mejora
@@ -93,6 +96,9 @@
     p(data-aos="fade-down").mb-5 Es un puesto que se realiza generalmente de pie, las acciones realizadas son preparación de prendas, extendido de la prenda sobre la telera, planchado y vaporizado, recolección de la prenda.
     .row.justify-content-center.align-items-end.mb-5           
       .col-lg-10(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 4.
+          span Puestos de planchado y vaporizado
         .tabla-a.color-acento-botones      
           table
             thead
