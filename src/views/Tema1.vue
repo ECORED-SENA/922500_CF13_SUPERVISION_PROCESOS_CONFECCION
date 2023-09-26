@@ -153,7 +153,7 @@
 
           .row.justify-content-center(titulo="Control de inventarios en proceso y de producto terminado")
             .col-11
-              p La adecuada distribución de planta facilita, inicialmente, ubicar de manera apropiada los materiales e insumos y, a continuación, implementar sistemas de control de inventarios en bodega y en proceso. Hoy día existen softwares diseñados para ese control, pero si se ubican los elementos a controlar, y los dispositivos en lugares equivocados, se pueden malograr todos los esfuerzos iniciales.  
+              p La adecuada distribución de planta facilita, inicialmente, ubicar de manera apropiada los materiales e insumos y, a continuación, implementar sistemas de control de inventarios en bodega y en proceso. Hoy día existen Software diseñados para ese control, pero si se ubican los elementos a controlar, y los dispositivos en lugares equivocados, se pueden malograr todos los esfuerzos iniciales.  
 
           .row.justify-content-center(titulo="Disminuir cargas de trabajo y fatigas")
             .col-11

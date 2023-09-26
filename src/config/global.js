@@ -157,21 +157,21 @@ export default {
       link: 'https://www.youtube.com/watch?v=vyqLP_nJxuE',
     },
     {
-      tema: '<i>Softwares</i> para distribuciones de planta',
+      tema: '<i>Software</i> para distribuciones de planta',
       referencia:
         'Ortega, K. (2020). <i>Distribución de planta bloques de Autocad</i>. [Video]. YouTube.',
       tipo: 'Video YouTube',
       link: 'https://youtu.be/E9_m4SW1boY',
     },
     {
-      tema: '<i>Softwares</i> para distribuciones de planta',
+      tema: '<i>Software</i> para distribuciones de planta',
       referencia:
         'Raven Tv11. (2016) <i>¿Qué es un layout?</i> [Video]. YouTube.',
       tipo: 'Video YouTube',
       link: 'https://www.youtube.com/watch?v=CnuGywCmCTM',
     },
     {
-      tema: '<i>Softwares</i> para distribuciones de planta',
+      tema: '<i>Software</i> para distribuciones de planta',
       referencia:
         'JACB ARQ. (2020). <i>Cómo hacer planos en Excel fácil y rápido</i>. [Video]. YouTube.',
       tipo: 'Video YouTube',
